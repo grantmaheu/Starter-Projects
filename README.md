@@ -1,3 +1,3 @@
 # Starter-Projects
 
-Some simple Python projects completed with the aim at improving my programing abilities
+Some simple Python projects completed with the aim of improving my programing abilities
